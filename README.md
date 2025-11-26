@@ -1,10 +1,4 @@
-# Mortgage Journey Checkbook & Client Guide
-
-## Overview
-[short description]
-
-## Canva Prompt (Upscale Version)
-[PROFESSIONAL CANVA PROMPT — MORTGAGE JOURNEY CHECKBOOK & CLIENT GUIDE (UPSCALE EDITION)
+PROFESSIONAL CANVA PROMPT — MORTGAGE JOURNEY CHECKBOOK & CLIENT GUIDE (UPSCALE EDITION)
 
 Create a modern, upscale, professional mortgage workbook titled:
 
@@ -363,7 +357,4 @@ Create minimal, premium sticker tags:
 
 Use clean black, gold, and navy tags.
 
-END OF PROMPT]
-
-## Workbook Structure
-[section-by-section content]
+END OF PROMPT
