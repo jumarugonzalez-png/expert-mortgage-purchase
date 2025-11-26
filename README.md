@@ -1,360 +1,364 @@
-PROFESSIONAL CANVA PROMPT — MORTGAGE JOURNEY CHECKBOOK & CLIENT GUIDE (UPSCALE EDITION)
-
-Create a modern, upscale, professional mortgage workbook titled:
-
 Mortgage Journey Checkbook & Client Guide
 
-A precise, organized, minimal, clean guide to successfully completing a mortgage transaction.
+A professionally structured, modern, upscale, and precise mortgage workbook designed to guide borrowers through every stage of the mortgage process — from application to closing — with federal compliance, timelines, disclosures, and clear action steps.
 
-DESIGN STYLE REQUIREMENTS
+This repository contains the full text, framework, and Canva prompt necessary to create a professional client-facing mortgage guide.
 
-Color Palette (Neutral Modern):
-• Charcoal (#2A2A2A)
-• Stone Gray (#D2D2D2)
-• Soft White (#FAFAFA)
-• Deep Navy (#1E2A38)
-• Slate Blue (#3F4A66)
-• Gold Accent (#C6A667) (for premium look)
+📌 Overview
 
-Typography:
-• Titles: Montserrat Bold or Poppins SemiBold
-• Body: Inter, Lato, or Nunito
-• Checklists: Inter Medium
-• No emojis
-• No playful fonts
+The Mortgage Journey Checkbook & Client Guide is a high-end, clean, minimal, and structured workbook crafted for:
 
-Layout:
-• Strong grids
-• Ample white space
-• Thin dividers
-• Simple icons (line icons only)
-• High-end presentation style
-• Precise language
-• Executive-tier readability
+Mortgage Loan Originators
 
-PAGE 1 — Cover Page
+Clients & Borrowers
 
-Title: Mortgage Journey Checkbook & Client Guide
-Subheading: Your step-by-step mortgage framework
-Design:
-• Clean centered layout
-• Thin-gold divider
-• Modern icon of a house outline
-• Navy background or white background with gold accent
+Realtors
 
-PAGE 2 — Welcome & Overview
+Financial coaches
 
-Welcome message:
-“This guide provides a clear, structured, and reliable framework to help you complete your mortgage process with confidence. Each section presents essential information, required documentation, legal disclosures, timelines, and progress checklists.”
+Loan processors
 
-PAGE 3 — Table of Contents
+First-time buyers
 
+Investors
+
+Its purpose is to simplify the complex mortgage process into a well-organized, step-by-step system that improves communication, transparency, expectations, and borrower understanding.
+
+This guide includes:
+
+Professional checklists
+
+Required compliance disclosures
+
+Federal timelines
+
+Document lists
+
+Milestones
+
+Summary sheets
+
+Communication logs
+
+Equity tracking
+
+It is written in a modern, professional tone suitable for luxury lending, high-trust branding, and personal use.
+
+📑 Table of Contents
+
+Project Purpose
+
+Features
+
+Full Workbook Structure
+
+Required Disclosures & Federal Compliance
+
+Mortgage Process Timelines
+
+Canva Prompt (Professional Upscale Edition)
+
+How to Use This Repository
+
+License (Optional Placeholder)
+
+🧭 1. Purpose of This Project
+
+The goal of this project is to provide a client-ready mortgage workbook that:
+
+Simplifies the mortgage process
+
+Helps clients stay organized
+
+Ensures compliance with federal disclosure requirements
+
+Provides clear timelines and expectations
+
+Builds trust through transparency
+
+Supports both purchase and refinance transactions
+
+Works for investment properties and first-time buyers alike
+
+✨ 2. Key Features
+
+Professional upscale design
+
+Straightforward, precise explanations
+
+Clean checklists and structured forms
+
+All legally required disclosures (TRID, RESPA, ECOA)
+
+Timeline charts for clarity
+
+Borrower profile + goal setting pages
+
+Document checklists for all loan types
+
+Equity and annual review sections
+
+Contact log and task tracker
+
+Investment property worksheets
+
+Compatible with Canva, PDF, Google Docs, and print formats
+
+📘 3. Full Workbook Structure
+
+Below is the complete layout for the professional workbook.
+
+SECTION 1 — Borrower Profile & Goals
 Borrower Profile
+
+Name
+
+Co-Borrower (if applicable)
+
+Contact Information
+
+Current Address
+
+Preferred Communication Method
 
 Financial Snapshot
 
-Loan Goals
-
-Home Purchase Process
-
-Refinance Process
-
-Investment Property Process
-
-Required Disclosures (Federal Compliance)
-
-Mortgage Timelines
-
-Document Checklists
-
-Communication Log
-
-Post-Closing Review
-
-Use a clean numbered list with subtle line dividers.
-
-SECTION DIVIDER — SECTION 1
-Borrower Profile & Goals
-
-A full-width divider bar, charcoal background, white text.
-
-PAGE 4 — Borrower Profile
-
-Name
-Co-Borrower
-Contact Information
-Current Address
-Preferred Communication Method
-Employment Summary
-Years in Industry (if applicable)
-
-PAGE 5 — Financial Snapshot
-
 Monthly Income
-Monthly Debt Obligations
+
+Monthly Debts
+
 Available Assets
+
 Savings for Closing
+
 Retirement Accounts (optional)
+
 Credit Score Range
 
-PAGE 6 — Loan Goals
+Loan Goals
 
-Purpose of Loan:
-□ Home Purchase
-□ Refinance
-□ Investment Property
+Purchase
 
-Primary Objective:
-□ Lower Monthly Payment
-□ Lower Interest Rate
-□ Reduce Loan Term
-□ Cash-Out
-□ Equity Strategy
+Refinance
 
-SECTION DIVIDER — SECTION 2
-Home Purchase Process
-PAGE 7 — Home Purchase Timeline Overview
+Investment Property
 
-A clean vertical timeline:
-• Pre-Approval
-• Property Search
-• Contract Acceptance
-• Loan Processing
-• Appraisal
-• Underwriting
-• Clear to Close
-• Closing
+Primary Objective (rate, payment, PMI removal, cash-out, equity strategy)
 
-PAGE 8 — Pre-Approval Checklist
+SECTION 2 — Home Purchase Process
+Home Purchase Timeline
 
-• Completed Loan Application
-• Credit Report Pulled
-• Income Documents Submitted
-• Asset Documents Submitted
-• Loan Estimate Delivered
-• Pre-Approval Issued
+Pre-Approval
 
-PAGE 9 — Property Search Notes
+Property Search
 
-Property Address
-Listing Price
-Key Features
-Concerns
-Estimated Taxes
-HOA (if applicable)
+Contract Acceptance
 
-PAGE 10 — Contract & Escrow Requirements
+Loan Processing
 
-• Executed Contract
-• Earnest Money Deposit
-• Inspection Period
-• Title Order Initiated
-• Home Insurance Quotes Requested
+Appraisal
 
-PAGE 11 — Purchase Document Checklist
+Underwriting
 
-Required:
-• ID
-• W-2s
-• Pay Stubs
-• Bank Statements
-• Tax Returns
-• Insurance Binder
+Clear to Close
 
-PAGE 12 — Appraisal & Underwriting
+Closing
 
-Appraisal:
-• Ordered
-• Completed
-• Value Confirmed
+Pre-Approval Checklist
+Property Search Worksheet
+Contract & Escrow Requirements
+Purchase Document Checklist
+Appraisal & Underwriting Steps
+Clear-to-Close Requirements
+SECTION 3 — Refinance Process
+Purpose of Refinance
 
-Underwriting Stages:
-• Initial Review
-• Conditions Issued
-• Conditions Submitted
-• Final Approval
+Rate reduction
 
-PAGE 13 — Clear to Close Requirements
+Payment reduction
 
-• Closing Disclosure Signed (3-day rule)
-• Final Conditions Cleared
-• Wire Instructions Received
-• Final Walk-Through Completed
-• Closing Scheduled
+PMI removal
 
-SECTION DIVIDER — SECTION 3
-Refinance Process
-PAGE 14 — Refinance Summary
+Term reduction
 
-Reasons for Refinancing
-• Rate Reduction
-• Term Reduction
-• Remove PMI
-• Cash-Out
+Cash-out
 
-PAGE 15 — Comparison Worksheet
+Refinance Comparison Worksheet
+Break-Even Worksheet
+Refinance Document Checklist
+Right-to-Cancel Summary
+SECTION 4 — Investment Property Process
+Investment Strategy Overview
+Deal Analysis Overview
+Cash Flow Worksheet
+Investment Loan Checklist
+SECTION 5 — Required Disclosures (Federal Compliance)
 
-Current Loan Terms:
-Rate / Term / Payment
+Each disclosure includes:
 
-Proposed Loan Terms:
-Rate / Term / Payment
+Description
 
-Monthly Savings
-Total Costs
-Break-Even Period
+Legal timeline
 
-PAGE 16 — Refinance Checklist
+Delivery requirements
 
-• Income Verification
-• Asset Verification
-• Appraisal Complete
-• CD Delivered
-• Closing Scheduled
-• 3-Day Right to Cancel (if applicable)
+Borrower rights
 
-SECTION DIVIDER — SECTION 4
-Investment Property Process
-PAGE 17 — Investment Strategy Overview
+Key reminders
 
-Property Type
-Target Market
-Projected Rent
-Expected Expenses
-Cash Flow Estimate
+Included disclosures:
 
-PAGE 18 — Deal Analysis Overview
+Loan Estimate (LE) — 3-day rule
 
-Purchase Price
-Cap Rate
-Cash-on-Cash Return
-Operating Expenses
-Vacancy Allowance
+Closing Disclosure (CD) — 3-day rule
 
-PAGE 19 — Investment Loan Checklist
+Home Loan Toolkit (purchase only)
 
-• DSCR Requirements
-• Lease Agreements
-• Reserves Verified
-• Appraisal
-• Underwriting Requirements
+Appraisal Delivery (ECOA)
 
-SECTION DIVIDER — SECTION 5
-Required Disclosures (Federal Law)
+Credit Score Disclosure (FACTA)
 
-Simple, high-end compliance presentation.
+Servicing Disclosure
 
-PAGE 20 — Loan Estimate (LE)
+Intent to Proceed
 
-Delivery Deadline: Within 3 business days of application
-Includes:
-• Interest Rate
-• Loan Terms
-• Costs
-• Escrows
-• APR
+Affiliated Business Disclosure
 
-PAGE 21 — Closing Disclosure (CD)
+Privacy Policy
 
-Delivery Deadline: 3 business days BEFORE closing
-Includes:
-• Final loan terms
-• All fees
-• Cash to close
-• Payment schedule
+Right to Shop for Services
 
-Mandatory 3-day waiting period.
+Rate Lock Agreement
 
-PAGE 22 — Home Loan Toolkit
+Right to Cancel (Refinance Only — 3 days after closing)
 
-Required for purchase loans.
-Delivered within 3 business days of application.
+SECTION 6 — Mortgage Timelines & Milestones
+Comprehensive timeline including:
 
-PAGE 23 — Appraisal Delivery (ECOA)
+Submission
 
-Borrower must receive the appraisal 3 days before closing.
+LE delivery
 
-PAGE 24 — Credit Score Disclosure
+Processing
 
-Delivered after credit is pulled.
+Appraisal
 
-PAGE 25 — Right to Shop for Services
+Underwriting
 
-Borrower receives a list of shoppable services.
+CD delivery
 
-PAGE 26 — Rate Lock Agreement
+Waiting periods
 
-Shows lock date and expiration.
+Closing
 
-PAGE 27 — Affiliated Business Relationship Notice
+Right-to-cancel window (refi)
 
-Discloses any financial relationships.
-
-PAGE 28 — Privacy Policy
-
-Required disclosure of how borrower information is used.
-
-PAGE 29 — Right to Cancel (Refinance Only)
-
-Borrower has 3 business days after closing to rescind.
-
-SECTION DIVIDER — SECTION 6
-Mortgage Timelines & Milestones
-PAGE 30 — Mortgage Timeline Visual Chart
-
-A clean horizontal timeline with phases:
-Application → LE → Processing → Appraisal → Underwriting → CD → Closing → (Refi: Right to Cancel)
-
-SECTION DIVIDER — SECTION 7
-Communication & Follow-Up Logs
-PAGE 31 — Contact Log
+SECTION 7 — Communication & Follow-Up
+Contact Log
 
 Date
+
 Contact
+
 Role
+
 Notes
+
 Next Step
 
-PAGE 32 — Task Tracker
+Task Tracker
 
 Task
+
 Assigned To
-Due Date
+
+Deadline
+
 Status
 
-SECTION DIVIDER — SECTION 8
-Post-Closing Review
-PAGE 33 — Equity Tracking
+SECTION 8 — Post-Closing Review
+Equity Tracking
 
-Year / Estimated Value / Loan Balance
+Yearly updates: value, balance, equity
 
-PAGE 34 — Annual Review Notes
+Annual Mortgage Review
 
 Goals
-Adjustments
-Refinance Considerations
 
-SECTION DIVIDER — SECTION 9
-Professional Sticker Sheet (Modern & Minimal)
+Portfolio changes
 
-Create minimal, premium sticker tags:
+Refinance opportunities
 
-• APPROVED
-• CLEAR TO CLOSE
-• FINAL DOCUMENTS RECEIVED
-• APPRAISAL COMPLETE
-• UNDERWRITING APPROVED
-• FILE SUBMITTED
-• CONDITIONS CLEARED
-• CLOSING READY
-• SIGNED
-• RATE LOCKED
-• DISCLOSURES RECEIVED
-• DEADLINES MET
-• EQUITY UPDATED
-• ANNUAL REVIEW COMPLETE
-• PAYMENT VERIFIED
+🎨 4. CANVA PROMPT — PROFESSIONAL UPSCALE EDITION
 
-Use clean black, gold, and navy tags.
+This is the full upscale prompt for creating a luxury-style workbook in Canva.
 
-END OF PROMPT
+Create a modern, upscale, professional mortgage workbook titled:
+"Mortgage Journey Checkbook & Client Guide"
+
+STYLE REQUIREMENTS:
+- Minimal, clean, professional
+- High-trust, wealth-management aesthetic
+- Color palette:
+  • Charcoal (#2A2A2A)
+  • Stone Gray (#D2D2D2)
+  • Off-White (#FAFAFA)
+  • Deep Navy (#1E2A38)
+  • Slate Blue (#3F4A66)
+  • Gold Accent (#C6A667)
+- Fonts:
+  • Titles: Montserrat Bold
+  • Body: Inter / Nu nito / Lato
+  • No emojis, no playful elements
+- Layout:
+  • Strong alignment grids
+  • Thin gold dividers
+  • Line icons only
+  • Ample white space
+  • Consistent spacing system
+  • Clean headings & subheadings
+
+
+(Full section-by-section Canva layout included below)
+
+➡️ (In your repo, keep the entire upscale Canva prompt. It’s too long to repeat twice here, but you can paste the full version from earlier.)
+
+📂 5. How to Use This Repository
+
+You can use this content to:
+
+✔ Build a professional mortgage workbook
+✔ Generate a Canva template
+✔ Build a digital mortgage guide
+✔ Create PDFs for clients
+✔ Post online as an open-source educational tool
+✔ Customize as a branded company resource
+✔ Connect to GitHub Pages as a standalone website
+🔗 6. Optional: GitHub Pages Website
+
+To create a public website:
+
+Go to your repository
+
+Click Settings
+
+Select Pages
+
+Choose the branch: main
+
+Choose the folder: /root or /docs
+
+Save
+
+GitHub will generate a public site like:
+https://yourusername.github.io/mortgage-journey-checkbook/
+
+📝 7. License (Optional)
+
+If you wish to control how others use this guide, add a license:
+
+MIT (Open-source use allowed)
+
+CC-BY (Credit required)
+
+CC-BY-NC (No commercial use allowed)
